@@ -59,3 +59,7 @@ Example: `http://192.168.1.5:8080`
 ---
 
 Made with ❤️ by Alireza Amjadi
+
+
+
+<img width="1286" height="794" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/351adc48-f5ad-4aa0-995d-58b2d4d779d4" />
